@@ -2,7 +2,7 @@ Simple nodejs proxy server
 ==========================
 
 The situation is the following one:
-* One host (client) establish a TCP connection to another one (remote)
+* One host (client) establishes a TCP connection to another one (remote)
 
 client ---> remote
 
